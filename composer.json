@@ -4,7 +4,7 @@
     "description": "PHP wrapper for DPD Germany SOAP API",
     "require": {
         "ext-mbstring": "*",
-        "php": "^7.4"
+        "php": "^7.4|^8.0"
     },
     "keywords": [
         "dpd",
